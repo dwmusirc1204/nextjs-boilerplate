@@ -2,6 +2,8 @@
 
 **WIP** Branch for parsing TS files through webpack. **WIP**
 
+[Live Demo](https://nextjs-typescript-boilerplate.surge.sh)
+
 ## Usage
 
 * Installation: `yarn install`
